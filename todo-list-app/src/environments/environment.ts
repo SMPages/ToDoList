@@ -1,4 +1,4 @@
 export const environment = {
-  production: false,
-  apiUrl: 'http://localhost:3000/api/todos'
+  production: true,
+  apiUrl: 'https://todolist-production-edf8.up.railway.app/api/todos'
 }; 
