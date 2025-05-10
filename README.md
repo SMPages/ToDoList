@@ -64,4 +64,4 @@ todo-list-app/
 - No se usaron librerías externas para la UI, solo Angular y estilos básicos.
 
 ## Autor
-Desarrollado por DevSebas (Sebastian Marciales).
+Desarrollado por DevSebas (Sebastian Marciales). 
